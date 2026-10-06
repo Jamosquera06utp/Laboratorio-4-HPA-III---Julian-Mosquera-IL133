@@ -87,24 +87,22 @@ Estas operaciones permiten administrar la información almacenada en MySQL desde
 
 
 ## 📁 Estructura de Carpetas o Directorios
-
-```
-Lab 4/
+Laboratorio4/
 │
-├── Lab 4.slnx
-├── Lab 4.csproj
+├── Laboratorio4/
+│   ├── Properties/
+│   ├── Conexion.cs
+│   ├── Form1.cs
+│   ├── Form1.Designer.cs
+│   ├── Laboratorio4.csproj
+│   ├── Producto.cs
+│   └── Program.cs
 │
-├── Conexion.cs
-├── Producto.cs
-├── Form1.cs
-├── Form1.Designer.cs
-├── Program.cs
-│
-├── Properties/
-│   └── ...
-│
+├── Laboratorio4.slnx
+├── tienda_db_permisos.sql
+├── tienda_db_productos.sql
 └── README.md
-```
+
 
 ## 👨‍💻 Autor y Contexto
 
