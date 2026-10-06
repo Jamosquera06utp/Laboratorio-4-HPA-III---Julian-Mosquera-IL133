@@ -87,6 +87,7 @@ Estas operaciones permiten administrar la información almacenada en MySQL desde
 
 
 ## 📁 Estructura de Carpetas o Directorios
+```
 Laboratorio4/
 │
 ├── Laboratorio4/
@@ -102,6 +103,7 @@ Laboratorio4/
 ├── tienda_db_permisos.sql
 ├── tienda_db_productos.sql
 └── README.md
+```
 
 
 ## 👨‍💻 Autor y Contexto
